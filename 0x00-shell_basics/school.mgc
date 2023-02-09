@@ -1,0 +1,6 @@
+#!/bin/bash
+nano school.mgc
+o string SCHOOL School data
+!:mime School
+##then
+file -C -m s chool.mgc
